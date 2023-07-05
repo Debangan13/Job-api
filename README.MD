@@ -58,4 +58,3 @@ Email Validation Regex
         type: string
       required: true
       description: the job id
-```
